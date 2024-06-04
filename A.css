@@ -1,0 +1,56 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: justify;
+    justify-content: center;
+    height: 100vh;
+	
+
+}
+
+/* Estilos para el perfil */
+.profile {
+    text-align: justify;
+	
+
+
+}
+
+.profile img {
+    border-radius: 10%;
+    margin-bottom: 10px;
+	width: 300px; 
+    height: auto; 
+
+
+}
+
+/* Estilos para la valoración */
+.rating {
+    margin-top: 30px;
+	align-items: center;
+	
+
+}
+
+/* Estilos para el gif */
+.gif img {
+    width: 200px;
+    margin-top: 20px;
+
+
+}
+
+/* Estilos para el menú desplegable */
+.menu {
+    margin-top: 20px;
+	
+}
+
+.menu select {
+    padding: 10px;
+    font-size: 16px;
+	
+
+}
